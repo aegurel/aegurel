@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aegurel
-- 👀 I’m interested in Game Development with Unity
-- 🌱 I’m currently learning C# PostreSQL and Firebase
+- 👀 I’m interested in NodeJS.
+- 🌱 I’m currently learning React-Native and Firebase
 - 📫 How to reach me ahmetensarg01@gmail.com
 
 <!---
