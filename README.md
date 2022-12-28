@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aegurel
 - 👀 I’m interested in NodeJS.
-- 🌱 I’m currently learning React-Native and Firebase
+- 🌱 I’m currently learning React-Native and Swift
 - 📫 How to reach me ahmetensarg01@gmail.com
 
 <!---
