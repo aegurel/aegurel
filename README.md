@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aegurel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://thelifeofjwo.files.wordpress.com/2015/08/giphy-2.gif"  />
 
 ###
@@ -36,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmet-ensar-g%C3%BCrel-8a6b101b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -44,10 +38,18 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aegurel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/aegurel/aegurel/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=aegurel.aegurel&left_color=aquamarine&right_color=aquamarine"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aegurel.aegurel&"  />
+</div>
 
 ###
