@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aegurel/aegurel/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aegurel.aegurel&"  />
 </div>
