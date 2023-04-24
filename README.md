@@ -32,19 +32,23 @@
   <a href="https://www.linkedin.com/in/ahmet-ensar-g%C3%BCrel-8a6b101b1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://discord.gg/KJzuqTd8" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/AhmetGr17229319" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aegurel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aegurel.aegurel&"  />
 </div>
 
